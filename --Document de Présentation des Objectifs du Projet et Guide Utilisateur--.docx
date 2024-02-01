@@ -1,0 +1,47 @@
+**Document de Présentation des Objectifs du Projet et Guide Utilisateur**
+
+---
+
+**Titre du Projet :** DataKeras - L'Assistance Intelligente pour Vos Projets en Data Science
+
+**Objectif du Projet :** 
+DataKeras a pour mission de simplifier le voyage des développeurs en data science travaillant avec PyKeras. Notre application offre un espace harmonieux où vous pouvez non seulement télécharger et appliquer vos modèles PyKeras, mais également gérer vos projets, sauvegarder les versions de vos modèles, stocker vos données d'application, et accéder facilement à vos résultats.
+
+**Fonctionnalités Principales :**
+1. **Explorez de Nouveaux Horizons avec des Modèles PyKeras Prêts à l'Emploi :** Téléchargez des modèles PyKeras pré-entrainés pour accélérer votre développement.
+
+2. **Organisez Vos Projets avec Élégance :** Gérez vos projets de data science en toute simplicité avec une interface intuitive. Sauvegardez et suivez les différentes versions de vos modèles.
+
+3. **Stockage Centralisé des Données :** Centralisez et organisez vos données d'application pour un accès rapide et efficace.
+
+4. **Archivez et Partagez vos Triomphes :** Chaque application de modèle crée une archive consultable de vos résultats. Téléchargez-les facilement pour les partager ou les analyser.
+
+5. **Tableau de Bord Personnalisé :** Créez votre tableau de bord personnalisé pour un suivi en temps réel de vos projets et résultats.
+
+**Guide Utilisateur :**
+
+1. **Téléchargement de Modèles PyKeras :**
+   - Accédez à la section "Modèles Prêts à l'Emploi".
+   - Choisissez le modèle qui correspond à vos besoins.
+   - Cliquez sur "Télécharger" et commencez à explorer ses possibilités.
+
+2. **Gestion de Projets :**
+   - Rendez-vous sur le tableau de bord.
+   - Créez un nouveau projet en utilisant l'interface conviviale.
+   - Suivez et gérez les différentes versions de vos modèles pour une gestion de projet efficace.
+
+3. **Stockage Centralisé des Données :**
+   - Accédez à la section "Données d'Application".
+   - Organisez et centralisez vos données pour une application cohérente des modèles.
+
+4. **Archivage et Téléchargement des Résultats :**
+   - Consultez votre historique de résultats dans la section "Résultats".
+   - Téléchargez les résultats pour les partager avec votre équipe ou les analyser plus en détail.
+
+5. **Tableau de Bord Personnalisé :**
+   - Personnalisez votre tableau de bord en fonction de vos besoins spécifiques.
+   - Obtenez une vue d'ensemble instantanée de l'état de vos projets et résultats.
+
+---
+
+DataKeras est conçu pour rendre votre expérience en data science plus fluide et enrichissante. Explorez, innovez et atteignez de nouveaux sommets avec facilité. Si vous avez des questions ou des commentaires, notre équipe est là pour vous aider à chaque étape. Bienvenue dans l'avenir de la data science avec DataKeras !
